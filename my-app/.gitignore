@@ -1,0 +1,16 @@
+# Entorno virtual
+venv/
+
+# Archivos Python
+__pycache__/
+*.pyc
+
+# Variables de entorno
+.env
+
+# Base de datos local (si usas SQLite en otros proyectos)
+*.db
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
