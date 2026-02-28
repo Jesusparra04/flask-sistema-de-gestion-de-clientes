@@ -45,7 +45,7 @@ El archivo `app_empresa_bd.sql` se encuentra incluido en el proyecto.
 ## ⚙ Instalación y ejecución
 
 ```bash
-git clone https://github.com/Jesusparra04/flask-client-management-system.git
+git clone https://github.com/Jesusparra04/flask-sistema-de-gestion-de-clientes.git
 cd my-app
 python -m venv venv
 venv\Scripts\activate
